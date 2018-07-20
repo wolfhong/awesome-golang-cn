@@ -3,7 +3,7 @@
 go语言的中文学习资料
 
 - [Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md): 《The Way to Go》的中文翻译
-- [Go入门指南](https://legacy.gitbook.com/book/zengweigang/core-go/details): 《The Way to Go》 的另一个中文翻译
+- [Go入门指南](https://zengweigang.gitbooks.io/core-go/content/): 《The Way to Go》 的另一个中文翻译
 - [Go语言圣经](https://legacy.gitbook.com/book/yar999/gopl-zh/details): [《The Go Programming Language》](http://www.gopl.io/)的中文翻译
 - [Go实战开发](https://github.com/astaxie/go-best-practice)
 - [Go Web编程](https://astaxie.gitbooks.io/build-web-application-with-golang/zh/): Go语言在web编程的入门
